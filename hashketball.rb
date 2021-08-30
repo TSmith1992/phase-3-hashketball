@@ -127,3 +127,11 @@ def game_hash
 end
 
 # Write code here
+
+# def num_points_scored do |player|
+#   # if game_hash[:home][:players].includes?(player)
+#     puts "yes"
+#   # else
+#   #   puts "no"
+#   # end 
+# end
